@@ -1,0 +1,22 @@
+Jastra Card || JCard
+=======================================================
+Pengembang Sistem:
+- Muhammad Roihan    | 18313013
+=======================================================
+
+Pemrograman 	: PHP
+Database 		: MySQL
+CSS Framework 	: Bootstrap
+Template		: AdminLTE v.3.2.0
+Tools			: - Sublime, 
+				  - XAMPP,
+				  - SQLyog
+
+========================================================
+
+PETUNJUK PENGGUNAAN
+
+1. Untuk membuka program ketikan localhost/jcard.
+2. Login user yang tersedia:
+username: admin, password admin
+username: user, password 12345678
